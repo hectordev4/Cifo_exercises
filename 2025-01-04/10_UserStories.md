@@ -12,3 +12,13 @@
 8. As a user, I want to be able to see my progress and share it to social media so that I can stay motivated.
 9. As a user, I want to be able to achieve badges as progress so that I can stay motivated.
 10. As a user, I want to be able to listen to a variety of accents and dialects so that I can learn to recognize different sounds.
+
+
+
+
+
+Resume por grupos:
+
+1. As a user, I want to practice speaking and hearing words with vowel focus to improve my pronunciation accuracy.
+2. As a user, I want the app to categorize words into themes and difficulty levels so that I can gradually improve my pronunciation skills.
+3. As a user, I want a dashboard and challenges so that I can track my progress and stay motivated.
