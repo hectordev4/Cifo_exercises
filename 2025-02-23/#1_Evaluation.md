@@ -1,4 +1,4 @@
-# Evaluació 1er Trimestre
+# 1st Trimester Evaluation
 
 ## What did I achieve to manage?
 
