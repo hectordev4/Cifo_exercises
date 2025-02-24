@@ -93,6 +93,44 @@ With the next documentation comes a great valuable cheatsheet to know the most u
 ---
 ### Roadmap
 
+This point represents how I've learned to create **roadmaps**. So I would start saying that a roadmap is not something easy that you can master overnight. It really takes practice to focus on core objectives and a clear goal, trial and error, learn from real-world applications.
+<br>
+
+You have to understand first of all the purpose of a roadmap, but indeed it is much more to it. A roadmap provides a high-level strategic view of the project you're focusing on, align many goals, prioritize goals over other goals and timelines.
+<br>
+
+I started by looking existing roadmaps good and bad ones, comparing them. Seeing how big companies structure their project and product roadmap and give some insights to it into the best praxis.
+<br>
+
+Here are some keywords and core elements to do it:
+
+- **Goals:** What are we trying to achieve?  
+- **Milestones:** Key points that mark progress.  
+- **Timelines:** Realistic estimates for when things should be completed.  
+- **Dependencies:** What needs to be done before moving to the next phase?  
+- **Flexibility:** Room for adjustments based on feedback and unforeseen challenges.  
+
+Understanding these components helped me structure roadmaps more effectively.
+<br>
+ 
+To bring my roadmaps to life, I tested various tools:  
+- **Trello** for visual task management.
+- **Notion** for flexible planning.
+- **Miro** for visual, collaborative mapping.
+
+Each tool had its strengths, and I learned to adapt based on the project's needs.
+
+ 
+Early on, I made roadmaps that were too detailed, which led to unnecessary complexity. Over time, I learned that a good roadmap should provide enough clarity to guide the team while remaining flexible.
+
+## 7. Adapting to Changes  
+A roadmap isn’t set in stone. Unexpected changes happen—market shifts, technical challenges, or stakeholder input. I learned to revise roadmaps regularly, ensuring they stay relevant without derailing the project.
+
+## Conclusion  
+Mastering roadmaps came from a mix of research, hands-on experience, and continuous improvement. Now, I can confidently create roadmaps that help keep projects on track while allowing room for adaptation.
+
+Would I say I’ve perfected it? Not at all. But every project I work on refines my skills further, and that’s what makes it exciting.
+
 
 ---
 ### Material-UI
@@ -103,13 +141,15 @@ With the next documentation comes a great valuable cheatsheet to know the most u
 ---
 ### Hooks
 
-- **useState** => Manage simple variables and literal objects.
-- **useEffect** => Handles side effects, such as fetching data, subscriptions, or manually changing the DOM.
-- **useContext** => Share states between components.
-- **useRef** => Persistence, stores a mutable reference that persists across renders without causing re-renders.
-- **useReducer** => A more powerful alternative to useState, useful for complex state logic.
-- **useMemo** => Stores in cache values to skip rendering them again.
-- 
+
+
+>- **useState** => Manage simple variables and literal objects.
+>- **useEffect** => Handles side effects, such as fetching data, subscriptions, or manually changing the DOM.
+>- **useContext** => Share states between components.
+>- **useRef** => Persistence, stores a mutable reference that persists across renders without causing re-renders.
+>- **useReducer** => A more powerful alternative to useState, useful for complex state logic.
+>- **useMemo** => Stores in cache values to skip rendering them again.
+
 
 
 ---
