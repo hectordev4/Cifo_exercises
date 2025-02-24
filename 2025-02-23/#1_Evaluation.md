@@ -15,6 +15,7 @@ I managed to start from scratch React+Vite projects and also to manage the Java 
 
 <br>
 
+---
 ### Frameworks to work with in Frontend and Backend
 
 As a newbie in software development I had to catch a lot of knowledge and background. So within the first days of the course I was introduced to React and Java, programming languages/frameworks that I never touched.
@@ -26,7 +27,7 @@ The key was to focus and apply SCRUM (which I'll talk later) on daily basis. I n
 I started to check the MOOC from Helsinki's University and the documentation from React in its website to practice and get to the bottom of every line of code I needed to write and being able to do all of the exercises and understand all of the classes I'd assist.
 <br>
 
-In the actual date I did successfully the "Describing the UI", "Adding Interactivity" and "Managing State" from the react.dev page,and currently finishing the part 4 from MOOC's Java Programming 1.
+In the actual date I did successfully the "Describing the UI" and "Adding Interactivity" from the react.dev page,and currently finishing the part 4 from MOOC's Java Programming 1.
 
 <br>
 
@@ -34,6 +35,7 @@ In the actual date I did successfully the "Describing the UI", "Adding Interacti
 
 <br>
 
+---
 ### One Git to rule'em all
 
 My archenemy in this evaluation I'd say it's Git. With all the possibilities to manage and control your projects and repositories, it was very hard to keep the order when you do something wrong.
@@ -51,6 +53,7 @@ I had to review a lots of times the documentation from Git in search for a way t
 
 <br>
 
+---
 ### SCRUM & Agile Methodologies
 
 Fell in love at first sight. That was my feel with every step closer to fully known this methodologies.
@@ -72,6 +75,7 @@ All I hope for is keep improving and pushing my knowledge to its limit and be ab
 
 <br>
 
+---
 ### Markdown and its capabilities
 
 Here I was taught the correct way to document all my projects and evaluations even the sprints commented in SCRUM methodology. Markdown is a great tool when it comes to that.
@@ -86,29 +90,39 @@ With the next documentation comes a great valuable cheatsheet to know the most u
 >Documentation: [Markdown Cheatsheet](https://github.com/AlbertProfe/markdown_PRA/blob/master/Resources/Markdown_guides/markdown_cheat_sheet_opensource.com_.pdf)
 <br>
 
+---
 ### Roadmap
 
 
-
+---
 ### Material-UI
 
-
+---
 ### Axios
 
-
+---
 ### Hooks
 
+- **useState** => Manage simple variables and literal objects.
+- **useEffect** => Handles side effects, such as fetching data, subscriptions, or manually changing the DOM.
+- **useContext** => Share states between components.
+- **useRef** => Persistence, stores a mutable reference that persists across renders without causing re-renders.
+- **useReducer** => A more powerful alternative to useState, useful for complex state logic.
+- **useMemo** => Stores in cache values to skip rendering them again.
+- 
 
+
+---
 ### API Rest & JPA
 
-
+---
 ### CRUD Operations
 
-
+---
 ### Literal Object, Arrow Functions, Spread Operators & Computed Property Names
 
-
+---
 ### ENUM
 
-
+---
 ### OneToOne, OneToMany, ManyToOne & ManyToMany Annotations
