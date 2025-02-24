@@ -138,7 +138,7 @@ To bring my roadmaps to life, I tested various tools:
 Each tool had its strengths, and I learned to adapt based on the project's needs.
 <br>
 
-> **Documentation:** 
+> **Documentation:** [Roadmap Documentation](https://fibery.io/blog/product-management/scrum-roadmaps/)
 
 <br>
 
