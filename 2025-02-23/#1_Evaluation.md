@@ -377,3 +377,10 @@ The **ManyToMany** annotation is used when two entities can be related to many i
 These annotations are essential for defining how entities relate to one another in JPA and mapping these relationships to a relational database.
 
 > **Documentation:** [JPA Anotations](https://github.com/AlbertProfe/cifojava2022-3/wiki/Library3:-API-Rest-Library-Book-@ManyToMany-@OneToOne-CRUD-with-Swagger)
+
+
+## Additions to my evaluation
+
+Here you can find my vault from github plenty with exercises done while the progress of the first trimester, hope you can learn from them as I'll grow to provide more and more in the next trimesters as my experience doing markdowns and more exercises.
+
+>[Exercises Repository](https://github.com/hectordev4/Cifo_exercises.git)
